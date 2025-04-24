@@ -1,4 +1,4 @@
-module github.com/syifan/triosim
+module github.com/arul-lm/triosim
 
 go 1.20
 
